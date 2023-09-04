@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+//
+//    @IBAction func btnAction(_ sender: Any) {
+//        let seconNav = self.storyboard?.instantiateViewController(identifier: "secondUi")
+//        navigationController?.pushViewController(seconNav!, animated: true)
+//    }
 }
 
